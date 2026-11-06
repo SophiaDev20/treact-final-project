@@ -1858,7 +1858,6 @@ MOBILE RESPONSIVENESS ↓
   }
 }
 
-
 @media (max-width: 768px) {
   .features {
     justify-content: center;
@@ -2172,11 +2171,6 @@ MOBILE RESPONSIVENESS ↓
     width: calc(100% - 40%);
   }
 }
-@media (max-width: 1280px) {
-  .testimonials__description {
-    width: calc(100% - 40%);
-  }
-}
 
 @media (max-width: 1280px) {
   .testimonial__img {
@@ -2186,7 +2180,7 @@ MOBILE RESPONSIVENESS ↓
 
 @media (max-width: 768px) {
   .testimonial__img {
-    width: 100%;
+    width: 22%;
   }
 }
 @media (max-width: 640px) {
